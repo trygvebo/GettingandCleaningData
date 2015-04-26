@@ -26,7 +26,9 @@ message board. In particular I wish to acknowledge and thank the community TA
 David Hood who have provided valuable directions and clarifications throughout 
 the course and fellow student Rebecca Everett which provided a valuable comment 
 in a post regarding formatting of the data set which was of great help. In 
-addition I have used the following external sources: 
+addition I have used the following external sources:
+Git Hub, 'Pushing to a remote', accessed online: https://help.github.com/
+articles/pushing-to-a-remote/ (on 26.04.15)
 Stack Overflow, ‘Reshaping time series data from wide to tall format (for plot-
 ting)’, accessed online: http://stackoverflow.com/questions/1181060/reshaping-
 time-series-data-from-wide-to-tall-format-for-plotting (on 25.04.15)
